@@ -22,19 +22,22 @@ Generating a SSH keypair in Linux
 |   -f ~/.ssh/keys/keylocation \ location of folder with ssh keys
 |   -N passphrase \ passphrase, can be ommited if user prefers connecting without additional key security
 
-.. figure:: https://github.com/CloudFerro/cf3-doc/blob/main/source/sshkeypair/ssh1.png
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh1.png
    :scale: 100 %
    :align: center
+
 | Application will ask for name of the key (press Enter for defaults - id_rsa for private and id_rsa.pub for public key) and passphrase (press Enter to ignore).
 
-.. figure:: https://github.com/CloudFerro/cf3-doc/blob/main/source/sshkeypair/ssh2.png
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh2.png
    :scale: 100 %
    :align: center
+
 | Next, ssh-keygen will show location, where the keys are saved, fingerprint of keypair and certain semigraphic image as expression of randomness in generating unique key.
  
-.. figure:: https://github.com/CloudFerro/cf3-doc/blob/main/source/sshkeypair/ssh3.png
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh3.png
    :scale: 100 %
    :align: center
+
 | To avoid problem with rejecting files due to too open permissions, simply navigate to the folder containing both keys and enter command:
 |
 | ``chmod 600 id_rsa && chmod 600 id_rsa.pub``
