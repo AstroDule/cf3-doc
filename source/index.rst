@@ -20,7 +20,7 @@ Guide:
    :maxdepth: 2
 
    test
-   sshkeypair
+   sshkeypair/sshkeypair
 
 
 
