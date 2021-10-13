@@ -20,6 +20,9 @@ Guide:
    :maxdepth: 2
 
    networking/networking
+   datavolume/datavolume
+   eodata/eodata
+   general/general
 
 
 
