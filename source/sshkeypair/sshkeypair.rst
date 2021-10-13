@@ -1,5 +1,5 @@
-Generating a SSH keypair in Linux
-#################################
+GENERATING A SSH KEYPAIR IN LINUX
+=================================
 
 | In order to generate SSH keypair in Linux, we recommend using a command "ssh-keygen".
 | If system does not see this packet installed, please install the latest updates using command:
