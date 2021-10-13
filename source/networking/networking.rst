@@ -7,4 +7,4 @@ Networking
    
    sshkeypair/sshkeypair
    cannotaccess/cannotaccess
-   accessvmsusingnames/accessvmsusingnames
+   accessvmsusingnames/accessvsusingnames
