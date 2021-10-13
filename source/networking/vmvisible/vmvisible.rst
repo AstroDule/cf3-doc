@@ -26,4 +26,4 @@ Even though, Virtual Machine is open for the internet. So if you want to ingress
 
 **Is my VM accessible from the outside without floating IP?**
 
-If a VM needs to be accessible from the Internet, a floating IP address must be attached to the instance. For more information regarding assigning Floating IPs to the instance, please see: *How Add/Remove Floating IP’s to your VM?*
+If a VM needs to be accessible from the Internet, a floating IP address must be attached to the instance. For more information regarding assigning Floating IPs to the instance, please see: `How to Add/Remove Floating IP’s to your VM? <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/networking/addremovefip/addremovefip.html>`_
