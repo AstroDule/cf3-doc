@@ -13,15 +13,13 @@ TEST !@$%^&(((!@(#($!@)%)%!@_)))::
    fmt.Prinln("Hello, world!")
    >> Hello, world
 
-Networking:
+Guide:
 ^^^^^^
 
 .. toctree::
    :maxdepth: 2
 
-   sshkeypair/sshkeypair
-   cannotaccess/cannotaccess
-   accessvmsusingnames/accessvmsusingnames
+   networking
 
 
 
