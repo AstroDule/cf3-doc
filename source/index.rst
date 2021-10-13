@@ -19,7 +19,7 @@ Guide:
 .. toctree::
    :maxdepth: 2
 
-   networking
+   networking/networking
 
 
 
