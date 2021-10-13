@@ -1,4 +1,4 @@
-HOW CAN I ACCESS MY VMS USING NAMES INSTEAD OF IP ADDRESSES?
+How can I access my VMs using names instead of IP addresses?
 =============================================================
 
 The VM-s are seen simultaneously in several networks, at least in your „private” LAN and in public Internet. By default the public addresses (floating-ip, 185.48.x.x) have no associated names. You may assign such names from your DNS domain or you may request a name from us (as an additional service). The names provided by us have the following format: computer_name.users.creodias.eu, where "computer_name" is chosen by you.
