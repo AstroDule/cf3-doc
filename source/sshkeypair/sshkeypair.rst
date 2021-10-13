@@ -22,9 +22,8 @@ Generating a SSH keypair in Linux
 |   -f ~/.ssh/keys/keylocation \ location of folder with ssh keys
 |   -N passphrase \ passphrase, can be ommited if user prefers connecting without additional key security
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh1.png
-   :scale: 100 %
-   :align: center
+.. image:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh1.png
+
 
 | Application will ask for name of the key (press Enter for defaults - id_rsa for private and id_rsa.pub for public key) and passphrase (press Enter to ignore).
 
