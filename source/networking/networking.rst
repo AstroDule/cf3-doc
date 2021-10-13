@@ -11,3 +11,4 @@ NETWORKING
    opennewports/opennewports
    sshkeywebconsole/sshkeywebconsole
    vmvisible/vmvisible
+   addremovefip/addremovefip
