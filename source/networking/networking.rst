@@ -8,3 +8,4 @@ Networking
    sshkeypair/sshkeypair
    cannotaccess/cannotaccess
    accessvmsusingnames/accessvsusingnames
+   opennewports/opennewports
