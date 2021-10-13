@@ -18,7 +18,9 @@ Guide:
 
 .. toctree::
    :maxdepth: 2
-
+   
+   s3/s3
+   openstackcli/openstackcli
    networking/networking
    datavolume/datavolume
    eodata/eodata
