@@ -1,5 +1,5 @@
 ***********
-Networking
+NETWORKING
 ***********
 
 .. toctree::
