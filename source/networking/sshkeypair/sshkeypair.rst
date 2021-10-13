@@ -23,20 +23,20 @@ GENERATING A SSH KEYPAIR IN LINUX
 |   -N passphrase \ passphrase, can be ommited if user prefers connecting without additional key security
 
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh1.png
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/sshkeypair/ssh1.png
    :scale: 100 %
    :align: center
 
 
 | Application will ask for name of the key (press Enter for defaults - id_rsa for private and id_rsa.pub for public key) and passphrase (press Enter to ignore).
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh2.png
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/sshkeypair/ssh2.png
    :scale: 100 %
    :align: center
 
 | Next, ssh-keygen will show location, where the keys are saved, fingerprint of keypair and certain semigraphic image as expression of randomness in generating unique key.
  
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/sshkeypair/ssh3.png
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/sshkeypair/ssh3.png
    :scale: 100 %
    :align: center
 
