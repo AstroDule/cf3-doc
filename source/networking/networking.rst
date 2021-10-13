@@ -10,3 +10,4 @@ NETWORKING
    accessvmsusingnames/accessvsusingnames
    opennewports/opennewports
    sshkeywebconsole/sshkeywebconsole
+   vmvisible/vmvisible
