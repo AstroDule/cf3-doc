@@ -19,15 +19,25 @@ Log in to the Horizon Panel and click on the **API Access** in the Project branc
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/s3/generateec2/ec2_1.png
    :scale: 100 %
    :align: center
-
+   
 
 Click on the **Download Openstack RC File**:
 
+
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/s3/generateec2/ec2_2.png
+   :scale: 100 %
+   :align: center
+
+|
 
 Choose **OpenStack RC File**:
 
+
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/s3/generateec2/ec2_3.png
+   :scale: 100 %
+   :align: center
+
+|
 
 Save your file on the hard disk and open your Terminal.
 
@@ -36,16 +46,46 @@ Type in commands presented below.
 Virtual environment called **"openstack"** has been created for the FAQ purposes and consists of python-openstackclient packages.
 
 
-.. code-block:: yaml
+::
 
-user@station:~$ workon openstack
+   user@station:~$ workon openstack
+   (openstack) user@station:~$ source cloud_02722\ project_with_eo-openrc.sh
+   Please enter your OpenStack Password for project cloud_02722 project_with_eo as user john.doe@cloudferro.com:
+   (openstack) user@station:~$ openstack ec2 credentials create
 
-(openstack) user@station:~$ source cloud_02722\ project_with_eo-openrc.sh
+Output:
 
-Please enter your OpenStack Password for project cloud_02722 project_with_eo as user john.doe@cloudferro.com:
+::
 
-(openstack) user@station:~$ openstack ec2 credentials create
+   +------------+-------------------------------------+
+   | Field      | Value                               |
+   +------------+-------------------------------------+
+   +--------------------------------------------------+
+   | access     | [access key]                        |
+   | links      | [link]                              |
+   | project_id | db39778a89b242f0a8ba818eaf4f3329    |
+   | secret     | [secret key]                        |
+   | trust_id   | None                                |
+   | user_id    | 121fa8dadf084e2fba46b00850aeb7aa    |
+   +------------+-------------------------------------+
+   
+ 
+Save access and secret key value.
 
+In the case of failure, you may grant access to your credential record by typing in command:
+
+::
+
+   (openstack) user@station:~$ openstack ec2 credentials list
+
+   +----------------------------------+----------------------------------+
+   | Access                           | Secret                           |
+   +----------------------------------+----------------------------------+
+   | [access key]                     | [secret key]                     |
+   +----------------------------------+----------------------------------+
+   
+ 
+ 
 
 
 
