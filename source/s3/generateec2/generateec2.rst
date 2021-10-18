@@ -1,11 +1,8 @@
 How to generate ec2 credentials?
 ================================
 
-Before you attempt to perform the CLI operations, please assure that the necessary dependencies have been installed:
+Before you attempt to perform the CLI operations, please assure that `Python-openstackclient <https://creodias.eu/-/how-to-install-openstackclient-linux->`_ has been installed.
 
-* Python-openstackclient FAQ
-    
-* (Strongly recommended) Virtualenv FAQ
 
 
 
@@ -48,10 +45,11 @@ Virtual environment called **"openstack"** has been created for the FAQ purposes
 
 ::
 
-   user@station:~$ workon openstack
-   (openstack) user@station:~$ source cloud_02722\ project_with_eo-openrc.sh
-   Please enter your OpenStack Password for project cloud_02722 project_with_eo as user john.doe@cloudferro.com:
-   (openstack) user@station:~$ openstack ec2 credentials create
+   user@station:~$ source test/test-openrc.sh
+   Please enter your OpenStack Password for project test as user john.doe@cloudferro.com:
+   user@station:~$ source openstack_cli/bin/activate
+   (openstack_cli) user@station:~$ openstack ec2 credentials create
+
 
 Output:
 
@@ -76,13 +74,13 @@ In the case of failure, you may grant access to your credential record by typing
 
 ::
 
-   (openstack) user@station:~$ openstack ec2 credentials list
+   (openstack_cli) user@station:~$ openstack ec2 credentials list
 
-   +----------------------------------+----------------------------------+
-   | Access                           | Secret                           |
-   +----------------------------------+----------------------------------+
-   | [access key]                     | [secret key]                     |
-   +----------------------------------+----------------------------------+
+   +--------------------+------------------------+-------------------+---------------+
+   | Access             | Secret                 | Project ID        | User ID       |
+   +--------------------+------------------------+-------------------+---------------+
+   | [access key]       | [secret key]           | [project id]      | [user id]     |
+   +--------------------+------------------------+-------------------+---------------+
    
  
  
