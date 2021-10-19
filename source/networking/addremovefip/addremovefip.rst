@@ -25,14 +25,14 @@ You may choose an address from the dropdown menu, but if it's empty, you need to
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip4.png
    :align: center
    
-Select the pool you are interested in and click "Allocate IP".
+Click "Allocate IP".
 
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip5.png
    :align: center
 
 Select newly allocated IP address and click Associate.
 
-.. notice::
+.. note::
    
    The IP address should be associated with a local address from "192.168.x.x" subnet. If you have "10.x.x.x" address change it to "192.168.x.x" address.
    
