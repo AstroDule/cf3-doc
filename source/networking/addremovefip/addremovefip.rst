@@ -55,13 +55,11 @@ Click "Associate".
 | You can now connect to your Virtual Machine trough SSH or RDP from the Internet.
 |
 | **How to disassociate Floating IP:**
-
 | If you no longer need public IP address you may disassociate it from your VM. Click "Dissasociate Floating IP" from the dropdown menu
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip8.png
    :align: center
 |
 | **How to release Floating IP (return it to the pool)**
-
 | Floating IP’s as any other Openstack resources have their cost when kept reserved and not used.
 |
 | If you don't want to keep your Floating IP’s reserved for your project you may release them to the Openstack pool for other users which will also reduce your project costs.
