@@ -27,7 +27,7 @@ In order to make your VM accessible from the Internet, you need to use Floating 
 | Select newly allocated IP address and click Associate.
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip5.png
    :align: center
-
+|
 
 .. note::
    
