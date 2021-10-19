@@ -4,33 +4,30 @@ How to Add/Remove Floating IP’s to your VM?
 
 In order to make your VM accessible from the Internet, you need to use Floating IP’s. Floating IP’s in Openstack are public IP addresses assigned to your Virtual Machine. Floating IP assignment allows you (when you have Security Groups set properly) to host services like SSH, HTTP or other over the Internet.
 
-
+|
 
 | **How to assign a Floating IP to your VM:**
 | In Instances tab in Horizon, click the dropdown menu next to your VM and choose „Associate Floating IP”
-
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip1.png
    :align: center
-
-You will be shown a window like this one:
-
+|
+| You will be shown a window like this one:
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip2.png
    :align: center
-   
-You may choose an address from the dropdown menu, but if it's empty, you need to allocate an address first. Click "+" icon on the right.
+|
+| You may choose an address from the dropdown menu, but if it's empty, you need to allocate an address first. Click "+" icon on the right.
 
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip3.png
    :align: center
-
+|
+| Click "Allocate IP".
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip4.png
    :align: center
-   
-Click "Allocate IP".
-
+|   
+| Select newly allocated IP address and click Associate.
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip5.png
    :align: center
 
-Select newly allocated IP address and click Associate.
 
 .. note::
    
@@ -50,16 +47,28 @@ Click "Associate".
    :align: center
  
 
-
-You now have public IP assigned to your instance and visible in Instances menu:
-
+|
+| You now have public IP assigned to your instance and visible in Instances menu:
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip7.png
    :align: center
 
-You can now connect to your Virtual Machine trough SSH or RDP from the Internet.
+| You can now connect to your Virtual Machine trough SSH or RDP from the Internet.
+|
+| **How to disassociate Floating IP:**
 
+| If you no longer need public IP address you may disassociate it from your VM. Click "Dissasociate Floating IP" from the dropdown menu
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip8.png
+   :align: center
+|
+| **How to release Floating IP (return it to the pool)**
 
-   
-
-
+| Floating IP’s as any other Openstack resources have their cost when kept reserved and not used.
+|
+| If you don't want to keep your Floating IP’s reserved for your project you may release them to the Openstack pool for other users which will also reduce your project costs.
+|
+| Go to Project → Network → Floating IPs
+.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/addremovefip/fip9.png
+   :align: center   
+|
+| For the address that is not in use, the "Release Floating IP" option will be available. Click it to release the IP address.
 
