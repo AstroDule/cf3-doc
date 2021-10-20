@@ -1,7 +1,7 @@
 How to connect to your virtual machine via SSH in Linux?
 ========================================================
 
-1. Prequisities: 
+**1. Prequisities:**
 
 1.1. The private and public keys were created. The key files were saved on the local disk of the computer. It is recommended to put the keys in the **~/.ssh** folder.
 
@@ -12,7 +12,7 @@ For example, when you create an SSH key named **"testkey"** in the Horizon dashb
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/connectviasshlinux/ssh_linux1.png
    :align: center
    
-2. Connecting to a virtual machine via SSH:
+**2. Connecting to a virtual machine via SSH:**
 
 2.1. If your virtual machine has already been assigned a Floating IP (the instances menu next to your virtual machine lists the IP address) you can proceed to the next step. If not, please follow `How to Add/Remove Floating IP’s to your VM? <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/networking/addremovefip/addremovefip.html>`_
 
