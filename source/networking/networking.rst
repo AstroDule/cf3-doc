@@ -12,3 +12,4 @@ NETWORKING
    sshkeywebconsole/sshkeywebconsole
    vmvisible/vmvisible
    addremovefip/addremovefip
+   connectviasshlinux/connectviasshlinux
