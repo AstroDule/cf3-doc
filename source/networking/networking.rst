@@ -7,6 +7,7 @@ NETWORKING
    
    sshkeypair/sshkeypair
    cannotaccess/cannotaccess
+   cantpingvm/cantpingvm
    accessvmsusingnames/accessvsusingnames
    opennewports/opennewports
    sshkeywebconsole/sshkeywebconsole
