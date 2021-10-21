@@ -22,7 +22,7 @@ For example, when you create an SSH key named **"testkey2"** in the Horizon dash
 2.4. Run the **Command prompt (CMD)** and change the folder to the folder where you store the SSH keys.
 For example:
 
-``cd c:\Users\JohnDoe\Desktop\sshkeys``
+``cd c:\Users\JohnDoe\sshkeys``
 
 2.5. In case of name of your ssh key is **id_rsa.txt** and the floating IP is **64.225.130.100** type:
 
