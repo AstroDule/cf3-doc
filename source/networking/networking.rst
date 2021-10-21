@@ -14,3 +14,4 @@ NETWORKING
    vmvisible/vmvisible
    addremovefip/addremovefip
    connectviasshlinux/connectviasshlinux
+   connectviasshwin/connectviasshwin
