@@ -15,3 +15,4 @@ NETWORKING
    addremovefip/addremovefip
    connectviasshlinux/connectviasshlinux
    connectviasshwin/connectviasshwin
+   createanetworkwithrouter/createanetworkwithrouter
