@@ -1,15 +1,11 @@
 Test
 ====
 
-.. class:: with-border
-.. figure:: net1.png
-
-   This is the caption
-   
++---------------------+
+|.. figure:: net1.png |
++---------------------+
    
 
-
-
-
-   
-   
++---------------------+
+|.. figure:: net5.png |
++---------------------+
