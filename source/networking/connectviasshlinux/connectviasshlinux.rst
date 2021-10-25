@@ -9,8 +9,8 @@ How to connect to your virtual machine via SSH in Linux?
 
 For example, when you create an SSH key named **"testkey"** in the Horizon dashboard, its name will appear next to your VM.
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/connectviasshlinux/ssh_linux1.png
-   :align: center
+.. figure:: ssh_linux1.png
+
    
 **2. Connecting to a virtual machine via SSH:**
 
@@ -30,7 +30,6 @@ Enter your password and confirm.
 
 2.5. The username in the terminal will change to **eouser**. This means that the SSH connection was successful.
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/connectviasshlinux/ssh_linux2.png
-   :align: center
+.. figure:: ssh_linux2.png
  
  
