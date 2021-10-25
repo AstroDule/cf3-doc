@@ -9,6 +9,7 @@ When you create a new project in Horizon, its content is empty. You have to manu
 
 .. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/createanetworkwithrouter/net1.png
    :align: center
+   :class: with-border
 |
 |
 | 2. Click on the **“Create Network”** button.
