@@ -1,9 +1,11 @@
 Test
 ====
 
-.. figure:: net1.png
+.. image:: net1.png
    :class: with-border
+   
+   
+tttttt
 
-   This is the caption
    
    
