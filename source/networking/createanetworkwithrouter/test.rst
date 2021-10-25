@@ -2,8 +2,11 @@ Test
 ====
 
 .. class:: with-border
-.. image:: net1.png
+.. figure:: net1.png
 
+   This is the caption
+   
+   
 
 
 
