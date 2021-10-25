@@ -8,8 +8,8 @@ How to connect to a virtual machine via SSH from Windows 10 (Command Prompt)
 1.2. During the virtual machine creation procedure, the generated key we want to use was indicated. 
 For example, when you create an SSH key named **"testkey2"** in the Horizon dashboard, its name will appear next to your VM.
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/connectviasshwin/cmd1.png
-   :align: center
+.. figure:: cmd1.png
+
 |
 **2. Connecting to a virtual machine via SSH:**
 
@@ -30,5 +30,5 @@ For example:
  
 2.6. If the username has changed to **eouser@vm03**, the connection has been successfully established.
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/networking/connectviasshwin/cmd2.png
-   :align: center
+.. figure:: cmd2.png
+
