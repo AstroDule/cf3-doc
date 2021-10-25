@@ -13,26 +13,23 @@ Users are able to generate ec2 credentials on their own by following those steps
 
 Log in to the Horizon Panel and click on the **API Access** in the Project branch.
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/s3/generateec2/ec2_1.png
-   :scale: 100 %
-   :align: center
+.. figure:: ec2_1.png
+
    
 
 Click on the **Download Openstack RC File**:
 
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/s3/generateec2/ec2_2.png
-   :scale: 100 %
-   :align: center
+.. figure:: ec2_2.png
+
 
 |
 
 Choose **OpenStack RC File**:
 
 
-.. figure:: https://raw.githubusercontent.com/CloudFerro/cf3-doc/main/source/s3/generateec2/ec2_3.png
-   :scale: 100 %
-   :align: center
+.. figure:: ec2_3.png
+
 
 |
 
