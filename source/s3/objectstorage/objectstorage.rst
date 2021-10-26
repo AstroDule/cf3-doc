@@ -45,7 +45,7 @@ Give the container a name "eg. C-01"
 
 |
 
-If you want to make the container available outside of your project, check **"Public"** checkbox and click **"Create"** button
+If you want to make the container available outside of your project, check **"Public"** checkbox and click **"Submit"** button
 
 .. figure:: objectstorage7.png
 
@@ -77,7 +77,7 @@ You can use **"Browse"** button to choose the file you want to upload from your 
 
 |
 
-You can share the link to the uploaded object by clicking **"link"**
+You can share the link to the uploaded object by clicking **"Link"**
 
 .. figure:: objectstorage15.png
 
