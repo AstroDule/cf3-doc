@@ -6,3 +6,4 @@ S3
    :maxdepth: 3
    
    generateec2/generateec2
+   objectstorage/objectstorage
