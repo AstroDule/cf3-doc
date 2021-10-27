@@ -7,3 +7,4 @@ S3
    
    generateec2/generateec2
    objectstorage/objectstorage
+   mountobjectstorage/mountobjectstorage
