@@ -17,9 +17,9 @@ There are also available tools for the same purpose such as: pipenv or miniconda
 
  
 
-1.If you have already prepared your working environment, you might open your terminal window.
+1. If you have already prepared your working environment, you might open your terminal window.
 
- 
+|
 
 2. Source the RC file that can be downloaded in Horizon dashboard.
 
@@ -33,7 +33,8 @@ There are also available tools for the same purpose such as: pipenv or miniconda
    
    user@PC:~/cloud_test$ 
    
-   
+|
+
 3. Use openstack image create command to upload an image to Glance repository.
 
 
@@ -70,16 +71,21 @@ After completion, you should gather necessary information from the console outpu
 
 4. In order to check our new image in Horizon dashboard, please log in to `horizon.cloudferro.com <https://horizon.cloudferro.com/>`_
 
+|
 
 5. Go to Compute → Images
 
 .. figure:: upload1.png
    :align: center
-   
+
+|
+
 6. Type in filter: custom_image
 
 .. figure:: upload2.png
    :align: center
+
+|
 
 7. You may click on the image to inspect advanced data.
 
