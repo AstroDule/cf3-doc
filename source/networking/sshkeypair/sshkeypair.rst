@@ -4,16 +4,25 @@ Generating a SSH keypair in Linux
 | In order to generate SSH keypair in Linux, we recommend using a command "ssh-keygen".
 | If system does not see this packet installed, please install the latest updates using command:
 |
-| ``sudo apt-get update && apt-get install openssh-client``
+::
+
+   sudo apt-get update && apt-get install openssh-client
+   
 | (for Ubuntu and Debian family),
 | or
 |
-| ``sudo yum install openssh-clients``
+::
+   
+   sudo yum install openssh-clients
+   
 | (for CentOS and Red Hat).
 | After that, in terminal (in systems with graphic user interface terminal can be acquired by pressing Ctrl + Alt + T) please enter command:
 |
-| ``ssh-keygen``
-|
+::
+
+   ssh-keygen
+   
+
 | (with additional flags:)
 |
 |   -t rsa \  authentication key type
@@ -39,4 +48,8 @@ Generating a SSH keypair in Linux
 
 | To avoid problem with rejecting files due to too open permissions, simply navigate to the folder containing both keys and enter command:
 |
-| ``chmod 600 id_rsa && chmod 600 id_rsa.pub``
+::
+
+   chmod 600 id_rsa && chmod 600 id_rsa.pub
+   
+ 
