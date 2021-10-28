@@ -20,13 +20,17 @@ For example, when you create an SSH key named **"testkey"** in the Horizon dashb
 
 2.3. Change the permissions of the private key file. In the case of file named **id_rsa**, type:
 
-``sudo chmod 600 id_rsa``
+::
+
+   sudo chmod 600 id_rsa
 
 Enter your password and confirm.
  
 2.4. Once you have completed all of the above steps, you can log in. Let us assume that your generated and configured floating IP address is in this case **64.225.132.99**. Type in the terminal console and confirm:
 
-``ssh eouser@64.225.132.99``
+::
+
+   ssh eouser@64.225.132.99
 
 2.5. The username in the terminal will change to **eouser**. This means that the SSH connection was successful.
 
