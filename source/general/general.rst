@@ -6,3 +6,4 @@ GENERAL
    :maxdepth: 3
    
    uploadimageusingopcli/uploadimageusingopcli
+   fixconsole/fixconsole
