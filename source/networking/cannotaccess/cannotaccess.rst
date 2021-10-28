@@ -6,4 +6,5 @@ Before you contact the Support - please try to reboot your VM (soft or hard). La
 Assumption:
 ::
 
-   You have to be convinced that your port 22 (SSH) is allowed in your Access&Security group associated with your instance.
+   You have to be convinced that your port 22 (SSH) is allowed in your 
+   Access&Security group associated with your instance.
