@@ -97,7 +97,7 @@ If you use some text editor like vim it should consist of many variables related
 
 Change your **directory** to downloading destination and **execute** the configuration file:
 
-For example it will look like: cloud_xxxxx\test-openrc.sh
+For example it will look like: cloud_xxxxx/test-openrc.sh
 
 Time to run this **sh** file. The prompted message will ask you for your domain **password**. Type it in and press **enter**. If the password is correct then you've got access **granted**.
 
