@@ -1,7 +1,7 @@
 How to generate ec2 credentials?
 ================================
 
-Before you attempt to perform the CLI operations, please assure that `Python-openstackclient <https://creodias.eu/-/how-to-install-openstackclient-linux->`_ has been installed.
+Before you attempt to perform the CLI operations, please assure that `Python-openstackclient <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/openstackcli/openstacklinux/openstacklinux.html>`_ has been installed.
 
 
 
