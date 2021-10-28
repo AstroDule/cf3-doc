@@ -5,7 +5,7 @@ You should first prepare the python environment on your desktop.
 
 Please see: https://cloudferro-cf3.readthedocs-hosted.com/en/latest/openstackcli/openstackcli.html OPENSTACK CLI.
 
-https://creodias.eu/-/how-to-install-openstackclient-linux- HOW TO INSTALL OPENSTACKCLIENT (LINUX)?
+https://cloudferro-cf3.readthedocs-hosted.com/en/latest/openstackcli/openstacklinux/openstacklinux.html HOW TO INSTALL OPENSTACKCLIENT (LINUX)?
 
 https://creodias.eu/-/how-to-install-openstackclient-windows-gitbash-cygwin HOW TO INSTALL OPENSTACKCLIENT (WINDOWS)? GITBASH/CYGWIN
 
