@@ -8,4 +8,3 @@ GENERAL
    uploadimageusingopcli/uploadimageusingopcli
    fixconsole/fixconsole
    statuspower/statuspower
-   opennewports/opennewports
