@@ -93,6 +93,7 @@ If you use some text editor like vim it should consist of many variables related
 .. figure:: openstacklinux3.png
    :align: center
 
+|
 
 Change your **directory** to downloading destination and **execute** the configuration file:
 
