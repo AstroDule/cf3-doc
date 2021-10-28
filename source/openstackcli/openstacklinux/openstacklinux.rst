@@ -84,7 +84,7 @@ Head straight to our email button in the upper-right-corner. Click on it.
 .. figure:: openstacklinux2.png
    :align: center
 
-Choose **Openstack RC File**.
+Choose **OpenStack RC File**.
 
 Save your RC file on your disk.
 
