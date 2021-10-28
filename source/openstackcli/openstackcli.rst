@@ -6,3 +6,4 @@ OpenStack CLI
    :maxdepth: 3
    
    backupaninstance/backupaninstance
+   openstacklinux/openstacklinux
