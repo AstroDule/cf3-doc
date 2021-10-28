@@ -7,7 +7,9 @@ By default there are two Egress (outgoing) rules, for ipv4 and ipv6 in the newly
 
 You need to create a new Ingress (incoming) rule that should look like this:
 
-``Ingress    IPv4    TCP    80 (HTTP)    0.0.0.0/0``
+::
+   
+   Ingress    IPv4    TCP    80 (HTTP)    0.0.0.0/0
 
 
 After creating the new Security Group you have to add it to your instance.
