@@ -77,10 +77,12 @@ If everything seems to work, we might firmly move on to our Horizon Panel.
 Log in to your account. 
 
 .. figure:: openstacklinux1.png
+   :align: center
 
 Head straight to our email button in the upper-right-corner. Click on it.
 
 .. figure:: openstacklinux2.png
+   :align: center
 
 Choose **Openstack RC File**.
 
@@ -89,6 +91,7 @@ Save your RC file on your disk.
 If you use some text editor like vim it should consist of many variables related to your domain account like it:
 
 .. figure:: openstacklinux3.png
+   :align: center
 
 
 Change your **directory** to downloading destination and **execute** the configuration file:
