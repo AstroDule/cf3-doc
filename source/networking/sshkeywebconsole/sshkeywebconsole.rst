@@ -21,14 +21,18 @@ copy URL of raw pastebin content (for obtaining a raw content, click on "Raw" ic
    
 and issue the command from inside of instance:
    
-``curl <pastebin url here> > mykey.txt``
+::
+
+   curl <pastebin url here> > mykey.txt
 
 .. figure:: pastebin4.png
 
    
 After downloading the file, you may check if your key is saved correctly using cat command:
 
-``cat mykey.txt``
+::
+
+   cat mykey.txt
 
 
 .. figure:: pastebin5.png
@@ -37,7 +41,9 @@ After downloading the file, you may check if your key is saved correctly using c
 
 Please note that the key must be put into /home/eouser/.ssh/authorized_keys, because you can ssh to your instance as eouser, but not as eoconsole. So once you are eoconsole user and get the key as described above, you should use:
 
-``cat mykey.txt | sudo tee /home/eouser/.ssh/authorized_keys``
+::
+
+   cat mykey.txt | sudo tee /home/eouser/.ssh/authorized_keys
 
    
    
