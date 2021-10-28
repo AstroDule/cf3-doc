@@ -7,7 +7,9 @@ This article is written for clarification how the instance without floating IP a
 
 In Linux you can easily see your IP by executing command:
 
-``curl ifconfig.me``
+::
+
+   curl ifconfig.me
 
 In Windows, the easiest way is visiting website that shows us our public and private IP address, for example: `whatismyip.org <https://www.whatismyip.org/>`_
 
