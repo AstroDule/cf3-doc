@@ -8,3 +8,5 @@ GENERAL
    uploadimageusingopcli/uploadimageusingopcli
    fixconsole/fixconsole
    statuspower/statuspower
+   vmnewvolumeno/vmnewvolumeno
+   vmnewvolumeyes/vmnewvolumeyes
