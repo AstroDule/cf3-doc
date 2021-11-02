@@ -7,3 +7,4 @@ OpenStack CLI
    
    backupaninstance/backupaninstance
    openstacklinux/openstacklinux
+   createasetofvms/createasetofvms
