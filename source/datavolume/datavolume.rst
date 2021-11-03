@@ -6,3 +6,4 @@ DATA / VOLUME
    :maxdepth: 3
    
    ephemeralvspersistentstorage/ephemeralvspersistentstorage
+   accessusings3cmd/accessusings3cmd
