@@ -48,18 +48,18 @@ for Ubuntu 14.04 start the server with this command:
 
 Now go to https://horizon.cloudferro.com/project/security_groups/
 
-Create new security group.
-Give it a name (eg. allow_nfs) and save by clicking "Create security group" button.
-Click "manage rules".
-Click "add rule"
-Choose:
-Rule: Custom TCP Rule
-
-Direction: Ingress
-Openport: Port
-Port: 2049
-Remote: CIDR
-CIDR: 64.225.128.2
+| Create new security group.
+| Give it a name (eg. allow_nfs) and save by clicking "Create security group" button.
+| Click "manage rules".
+| Click "add rule"
+| Choose:
+| Rule: Custom TCP Rule
+|
+| Direction: Ingress
+| Openport: Port
+| Port: 2049
+| Remote: CIDR
+| CIDR: 64.225.128.2
 
 Click "Add"
 
@@ -67,11 +67,10 @@ Go to https://horizon.cloudferro.com/project/instances/
 
 From the drop-down menu on the right of the "Host" instance, choose "Edit Security Groups"
 
-Click on the "plus" sign on the "allow_nfs" group.
-This will move the group from "All Security Groups" to "Instance Security Groups".
-Click "Save".
-
- 
+| Click on the "plus" sign on the "allow_nfs" group.
+| This will move the group from "All Security Groups" to "Instance Security Groups".
+| Click "Save".
+|
 
 **On the Client**
 
