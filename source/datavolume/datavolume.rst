@@ -7,3 +7,4 @@ DATA / VOLUME
    
    ephemeralvspersistentstorage/ephemeralvspersistentstorage
    accessusings3cmd/accessusings3cmd
+   exportvolumeovernfs/exportvolumeovernfs
