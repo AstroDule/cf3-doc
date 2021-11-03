@@ -30,7 +30,6 @@ First we need to extend the volume in Horizon.
 Lets say that we have 1GB volume attached to our instance as /dev/vdb
 
 .. figure:: vol1.png
-   :scale: 150%
 
 And we have it mounted in our Linux machine as /dev/vdb1
 
@@ -64,9 +63,9 @@ Then detach it in Horizon by clicking "Manage Attachments" > "Detach Volume"
    :align: center
 
 
-
 .. figure:: vol3.png
    :align: center
+   
 
 After detaching we will have "Extend Volume" option available.
 
@@ -76,6 +75,7 @@ After detaching we will have "Extend Volume" option available.
 .. figure:: vol5.png
    :align: center
    
+
 We enter new size, for example 5GB and click "Extend Volume"
 
 .. figure:: vol6.png
