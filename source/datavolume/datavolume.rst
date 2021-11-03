@@ -10,3 +10,4 @@ DATA / VOLUME
    exportvolumeovernfs/exportvolumeovernfs
    attachvolumetovm<2tb/attachvolumetovm<2tb
    extendvolumelinux/extendvolumelinux
+   volumesnapshot/volumesnapshot
