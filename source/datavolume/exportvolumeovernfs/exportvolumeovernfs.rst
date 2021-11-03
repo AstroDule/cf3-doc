@@ -22,7 +22,7 @@ On both servers we will create directory /xdata, that will be shared
    eouser@host:~$ sudo apt-get install nfs-kernel-server
    eouser@host:~$ sudo mkdir /xdata
    eouser@host:~$ sudo chown nobody:nogroup /xdata
-  eouser@host:~$ sudo nano /etc/exports
+   eouser@host:~$ sudo nano /etc/exports
 
 add line:
 
