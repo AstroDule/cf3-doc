@@ -9,3 +9,4 @@ DATA / VOLUME
    accessusings3cmd/accessusings3cmd
    exportvolumeovernfs/exportvolumeovernfs
    attachvolumetovm<2tb/attachvolumetovm<2tb
+   extendvolumelinux/extendvolumelinux
