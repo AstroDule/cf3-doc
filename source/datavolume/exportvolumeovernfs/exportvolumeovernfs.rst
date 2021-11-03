@@ -5,8 +5,10 @@ How to export a volume over NFS (outside of a project)?
 
 2 ubuntu servers in various projects (not in a private network) having floating IPs assigned.
 
-Host: 64.225.128.1
-Client: 64.225.128.2
+::
+
+   Host: 64.225.128.1
+   Client: 64.225.128.2
 
 On both servers we will create directory /xdata, that will be shared
 
