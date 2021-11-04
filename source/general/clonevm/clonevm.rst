@@ -14,13 +14,13 @@ In summary, there will be 2 operations:
 To start, please visit our website https://horizon.cloudferro.com and login.
 
 .. figure:: clone1.png
+   :align: center
 
 After logon, in **"Instances"** menu select VM to be cloned, and create its snapshot by clicking "Actions" Menu
 
-
 .. figure:: clone2.png
 
-Once the snapshot is ready, you may see it on „Images” page of Horizon. Select its name to see properties.
+Once the snapshot is ready, you may see it on **„Images”** page of Horizon. Select its name to see properties.
 
 .. figure:: clone3.png
 
@@ -28,7 +28,7 @@ Now, you may click **"Launch"** in right upper corner of the window or just go b
 
 Full manual you may find here:
 
-*HOW TO CREATE NEW LINUX VM IN OPENSTACK DASHBOARD (HORIZON)?* [TBA]
+`HOW TO CREATE NEW LINUX VM IN OPENSTACK DASHBOARD (HORIZON)? <https://creodias.eu/-/a-9-16>`_
  
 
 But if this process is familiar to you, there is only one difference. Chose as the source **"boot from snapshot”** instead of **"boot from image"** and select your snapshot from the list below. In next steps select parameters (flavour, size), at least the same as the original one. ("Launch instance" button will be unavailable untill all necessary settings were completed).
