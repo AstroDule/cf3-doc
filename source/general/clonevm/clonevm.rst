@@ -37,7 +37,7 @@ The new machine gets configured as a clone of the original one, except of networ
 
 .. caution::
 
-   if the original machine had any additional volumes attached to it, they also shoudl be cloned.
+   if the original machine had any additional volumes attached to it, they also should be cloned.
 
 You may also will read:
 
