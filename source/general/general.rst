@@ -10,3 +10,4 @@ GENERAL
    statuspower/statuspower
    vmnewvolumeno/vmnewvolumeno
    vmnewvolumeyes/vmnewvolumeyes
+   clonevm/clonevm
