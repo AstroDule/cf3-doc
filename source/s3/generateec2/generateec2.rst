@@ -17,7 +17,7 @@ Log in to the Horizon Panel and click on the **API Access** in the Project branc
 
    
 
-Click on the **Download Openstack RC File**:
+Click on the **Download OpenStack RC File**:
 
 
 .. figure:: ec2_2.png
