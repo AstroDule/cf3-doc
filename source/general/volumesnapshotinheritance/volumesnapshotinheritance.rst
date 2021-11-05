@@ -11,22 +11,33 @@ We have created a "VA" volume.
 
 .. figure:: vsnap1.png
 
+|
+
 Next we create a "SA" snapshot from the "VA" volume.
 
 .. figure:: vsnap2.png
+
+|
 
 From the OpenStack dashboard we can create new volumes "VB" and "VC" based on previously created snapshot "SA".
 
 .. figure:: vsnap3.png
 
+|
+
 At the moment we have two new volumes which are based on the "SA" snapshot. Suppose we no longer need the "VA" volume and we want to delete it.
 
 .. figure:: vsnap4.png
+   :align: center
+
+|
 
 Unfortunately, delete will not be possible directly because to delete a given volume, we have to delete its snapshots.
 
 .. figure:: vsnap5.png
    :align: center
+
+|
 
 So we must first delete the snapshot "SA", then the volume "VA".
 
