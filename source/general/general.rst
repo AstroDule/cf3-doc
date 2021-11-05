@@ -11,4 +11,4 @@ GENERAL
    vmnewvolumeno/vmnewvolumeno
    vmnewvolumeyes/vmnewvolumeyes
    clonevm/clonevm
-   volumesnapshot/volumesnapshot
+   volumesnapshotinheritance/volumesnapshotinheritance
