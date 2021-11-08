@@ -83,7 +83,7 @@ You can now create a new VM from the volume choosing "Launch as Instance"
 
 |
 
-you can choose choose different new flavor (eg. eo1.xmedium) than original  (eo1.xsmall)
+you can choose different new flavor (eg. eo1.xmedium) than original  (eo1.xsmall)
 
 .. figure:: volyes14.png
 
