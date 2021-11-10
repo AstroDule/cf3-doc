@@ -11,4 +11,6 @@ GENERAL
    vmnewvolumeno/vmnewvolumeno
    vmnewvolumeyes/vmnewvolumeyes
    clonevm/clonevm
+   startavmfromasnapshot/startavmfromasnapshot
    volumesnapshotinheritance/volumesnapshotinheritance
+  
