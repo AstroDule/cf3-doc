@@ -89,13 +89,13 @@ How to start a VM from a snapshot?
    As you have realised, Image snapshot has got RAW format and its size is equivalent to the image that VM was booted from.
    In the “Images” you may also find symbolic links to the volume snapshots.(e.q snapshot-virtual-machine-01 from a) scenario). This type of snapshot has got        format QCOW2 and its size is set on 0 bytes.
 
-5. Name your virtual machine and go to “Source.” Set Boot Source on “Instance snapshot and choose previously created Snapshot in RAW format.
+5. Name your virtual machine and go to “Source.” Set Boot Source on “Instance snapshot" and choose previously created Snapshot in RAW format.
 
 .. figure:: snap5.1.png
 
 |
 
-6.The rest of procedure is the same, hence there is an attachment: How to create new VM in OpenStack dashboard (Horizon)?
+6.The rest of procedure is the same, hence there is an attachment: `How to create new VM in OpenStack dashboard (Horizon)? <https://creodias.eu/-/a-9-16?inheritRedirect=true&redirect=%2Ffaq-horizon-openstack-dashboard>`_
 
 |
 
