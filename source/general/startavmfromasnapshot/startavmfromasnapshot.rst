@@ -57,7 +57,7 @@ How to start a VM from a snapshot?
 |
 
 
-**b) Volume snapshot**
+**b) Image snapshot**
 
 1.Choose the desired virtual machine (booted from Glance image) and click on the “Create snapshot” button.
 
