@@ -10,6 +10,8 @@ If the volume had not been used before (it has been freshly created), it must be
 
 .. figure:: volattach1.png
 
+|
+
 .. figure:: volattach2.png
 
 ::
