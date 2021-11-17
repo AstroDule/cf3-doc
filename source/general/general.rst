@@ -13,4 +13,5 @@ GENERAL
    clonevm/clonevm
    startavmfromasnapshot/startavmfromasnapshot
    volumesnapshotinheritance/volumesnapshotinheritance
+   openstackdomain/openstackdomain
   
