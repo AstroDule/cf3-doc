@@ -5,7 +5,7 @@ A **project** is a isolated group of zero or more users who share common access 
 
 You can imagine that the whole OpenStack cloud  is a big cake of resources (vCPU, disks, instances, etc…) and projects are the pieces of this cake served to the customers.
 
-Current project name is **visible** beside the domain in the Horizon panel.
+Current project name is **visible** in the Horizon panel.
 
 .. figure:: project1.png
 
