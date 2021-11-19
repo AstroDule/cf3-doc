@@ -24,3 +24,5 @@ How to access the VM from OpenStack console?
 4 b) In case of **Windows** set up password for Administrator profile
 
 .. figure:: accessvm5.png
+
+5. You can now perform administrative tasks in the instance.
