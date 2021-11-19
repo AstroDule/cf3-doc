@@ -5,7 +5,7 @@ How to access the VM from OpenStack console?
 
    We recommend not using Chrome browser because it responds very slowly while using the OpenStack console. Firefox works well.
    
- 1. Go to https://horizon.cloudferro.com/auth/login/?next=/ and select your authentication method.
+1. Go to https://horizon.cloudferro.com/auth/login/?next=/ and select your authentication method.
  
 .. figure:: accessvm1.png
 
@@ -13,7 +13,7 @@ How to access the VM from OpenStack console?
 
 .. figure:: accessvm2.png
 
-3. Select **"Console""** pane
+3. Select **"Console"** pane
 
 .. figure:: accessvm3.png
 
@@ -21,6 +21,6 @@ How to access the VM from OpenStack console?
 
 .. figure:: accessvm4.png
 
-4 b) In case of Windows set up password for Administrator profile
+4 b) In case of **Windows** set up password for Administrator profile
 
 .. figure:: accessvm5.png
