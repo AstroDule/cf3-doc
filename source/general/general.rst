@@ -5,6 +5,7 @@ GENERAL
 .. toctree::
    :maxdepth: 3
    
+   accessvmfromconsole/accessvmfromconsole
    uploadimageusingopcli/uploadimageusingopcli
    fixconsole/fixconsole
    statuspower/statuspower
