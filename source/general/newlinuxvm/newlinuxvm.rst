@@ -12,7 +12,10 @@ Insert the name of the Instance (eg. "vm01") and click Next button.
 .. figure:: newvm2.png
 
 Select Instance Boot Source (eg. "Image"), and choose desired image (eg. "Ubuntu 20.04 LTS") by clicking on arrow.
-**If you do not need to have the system disk bigger than the size defined in a chosen flavor, we recommend setting "Create New Volume" feature to "No" state.**
+
+.. note::
+
+   If you do not need to have the system disk bigger than the size defined in a chosen flavor, we recommend setting "Create New Volume" feature to "No" state.
 
 .. figure:: newvm3.png
 
