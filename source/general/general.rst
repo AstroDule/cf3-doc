@@ -15,4 +15,5 @@ GENERAL
    startavmfromasnapshot/startavmfromasnapshot
    volumesnapshotinheritance/volumesnapshotinheritance
    openstackproject/openstackproject
+   newlinuxvm/newlinuxvm
   
