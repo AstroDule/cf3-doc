@@ -16,4 +16,5 @@ GENERAL
    volumesnapshotinheritance/volumesnapshotinheritance
    openstackproject/openstackproject
    newlinuxvm/newlinuxvm
+   keypairopenstack/keypairopenstack
   
