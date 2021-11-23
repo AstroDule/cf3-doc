@@ -17,4 +17,5 @@ GENERAL
    openstackproject/openstackproject
    newlinuxvm/newlinuxvm
    keypairopenstack/keypairopenstack
+   howtousedocker/howtousedocker
   
