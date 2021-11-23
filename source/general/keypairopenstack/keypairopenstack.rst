@@ -1,4 +1,4 @@
-How to create key-pair in OpensStack dashboard?
+How to create key-pair in OpenStack dashboard?
 ================================================
 
 Open **Compute -> Key Pairs** 
