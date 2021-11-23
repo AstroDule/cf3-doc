@@ -31,7 +31,7 @@ Open **"Security Groups"** After that, choose "default" and group related to you
 
 .. figure:: newvm6.png
 
-Choose or generate SSH keypair `HOW TO CREATE KEY-PAIR IN OPENSSTACK DASHBOARD? <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/general/keypairopenstack/keypairopenstack.html>`_ for your VM. Next, launch your instance by clicking on blue button.
+Choose or generate SSH keypair `HOW TO CREATE KEY-PAIR IN OPENSTACK DASHBOARD? <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/general/keypairopenstack/keypairopenstack.html>`_ for your VM. Next, launch your instance by clicking on blue button.
 
 .. figure:: newvm7.png
 
