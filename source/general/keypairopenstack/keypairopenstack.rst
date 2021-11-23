@@ -9,7 +9,7 @@ Click **Create Key Pair**, insert the name of the key (eg. "ssh-key") and Key Ty
 
 .. figure:: keypair2.png
 
-After generating Key Pair your new Private Key download window will appear. Click **Open with text editor**
+After generating Key Pair your new Private Key download window will appear. Click **Open with Text Editor**
 
 .. figure:: keypair3.png
 
