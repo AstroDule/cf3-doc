@@ -15,6 +15,7 @@ GENERAL
    startavmfromasnapshot/startavmfromasnapshot
    volumesnapshotinheritance/volumesnapshotinheritance
    openstackproject/openstackproject
+   openstackdomain/openstackdomain
    newlinuxvm/newlinuxvm
    keypairopenstack/keypairopenstack
    howtousedocker/howtousedocker
