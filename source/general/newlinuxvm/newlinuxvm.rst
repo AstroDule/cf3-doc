@@ -27,7 +27,7 @@ Click **"Networks"** and then choose desired networks.
 
 .. figure:: newvm5.png
 
-Open **"Security Groups"** After that, choose "default" and group related to your domain, eg. "cloud_00106_1"
+Open **"Security Groups"** After that, choose "default" and "allow_ping_ssh_icmp_rdp" gropus.
 
 .. figure:: newvm6.png
 
