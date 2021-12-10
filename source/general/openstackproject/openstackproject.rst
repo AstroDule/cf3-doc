@@ -9,5 +9,16 @@ Current project name is **visible** in the Horizon panel.
 
 .. figure:: project1.png
 
+Projects are created, managed, and edited at the OpenStack **Projects** screen.
 
+.. figure:: project2.png
+
+Users can be associated with more than one project, but once signed, they can only see and access the resources available in that project.
+Each project and user pairing can have a role associated with it.
+
+OpenStack users can create projects, and create new accounts using the OpenStack Dashboard. They can also associate other users with roles, projects, or both.
+
+To remove project its mandatory to manually remove all its resources first.
+
+`Users can create private networks for connectivity within projects <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/networking/createanetworkwithrouter/createanetworkwithrouter.html>`_. By default, they are fully isolated and are not shared with other projects.
 
