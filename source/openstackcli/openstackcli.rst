@@ -8,4 +8,4 @@ OpenStack CLI
    backupaninstance/backupaninstance
    openstacklinux/openstacklinux
    createasetofvms/createasetofvms
-   newprojectopenstac/newprojectopenstack
+   newprojectopenstack/newprojectopenstack
