@@ -36,6 +36,6 @@ Now, using the drop-down menu, you can modify groups (the last tab from setup), 
 
 When you choose the last option, your recent project will be changed to current one. You will see it at the bar on the top of the page.
 
-.. figure:: 6.png
+.. figure:: 7.png
 
 If you want to check your project ID, just open Project → API Access menu, and click on "View Credentials"
