@@ -1,4 +1,4 @@
-HOW TO MOUNT OBJECT STORAGE IN LINUX?
+How to mount object storage in Linux?
 =====================================
 
 First, check if you have s3cmd installed by typing s3cmd. If not install it according to instructions:
