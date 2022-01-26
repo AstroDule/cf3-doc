@@ -1,7 +1,8 @@
 How to download EODATA file using boto3?
 ====
 | Download particular Landsat-5 image.
-|
+.. warning::
+   We strongly recommend using virtualenv for isolating python packages. Configuration tutorial is presented below: `How to install Python virtualenv/virtualenvwrapper <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/general/pythonvirtualenv/pythonvirtualenv.html>`_
 | If virtualenv is activated:
 ::
 
