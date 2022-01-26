@@ -18,5 +18,6 @@ GENERAL
    openstackdomain/openstackdomain
    newlinuxvm/newlinuxvm
    keypairopenstack/keypairopenstack
+   pythonvirtualenv/pythonvirtualenv
    howtousedocker/howtousedocker
   
