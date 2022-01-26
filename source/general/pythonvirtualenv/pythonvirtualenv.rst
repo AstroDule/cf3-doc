@@ -47,7 +47,7 @@ How to install Python virtualenv/virtualenvwrapper
    export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
    export VIRTUALENVWRAPPER_VIRTUALENV=/home/eouser/.local/bin/virtualenv
    source ./.local/bin/virtualenvwrapper.sh
-| And save the .bashrc file. 
+| After that save the .bashrc file. 
 | Now we've to reload the bashrc script, to do it execute command:
 |
 ::
@@ -71,6 +71,7 @@ How to install Python virtualenv/virtualenvwrapper
   virtualenvwrapper.user_scripts creating /home/eouser/.virtualenvs/get_env_details
   
 | Now create your first virtual environment **'test'** with 'mkvirtualenv' command.
+|
 ::
 
   eouser@vm01:~$ mkvirtualenv test
@@ -85,6 +86,40 @@ How to install Python virtualenv/virtualenvwrapper
   virtualenvwrapper.user_scripts creating /home/eouser/.virtualenvs/test/bin/postactivate
   virtualenvwrapper.user_scripts creating /home/eouser/.virtualenvs/test/bin/get_env_details
 | Now you should see name of your environment in the bracket before username, which means that you're working on your virtual environment.
+|
 ::
 
   (test) eouser@vm01:~$ 
+| If you would like to exit current environment, just type the 'deactivate' command:
+|
+::
+
+  (test) eouser@vm01:~$ deactivate
+  eouser@vm01:~$
+| To start working on virtual environment type 'workon' command:
+|
+::
+
+  eouser@vm01:~$ workon test
+  (test) eouser@vm01:~$ 
+| To remove virtual environment invoke 'rmvirtualenv':
+|
+::
+
+  eouser@vm01:~$ rmvirtualenv test
+  Removing test...
+| To list all virtual environments use 'workon' or 'lsvirtualenv':
+|
+::
+
+  eouser@vm01:~$ workon
+  test-1
+  test-2
+  test-3
+  eouser@vm01:~$ lsvirtualenv
+  test-1
+  ======
+  test-2
+  ======
+  test-3
+  ======
