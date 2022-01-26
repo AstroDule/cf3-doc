@@ -3,12 +3,10 @@ How to download EODATA file using boto3?
 | Download particular Landsat-5 image.
 |
 | If virtualenv is activated:
-|
 ::
 
  (myvenv) eouser@vm01:~$ pip3 install boto3
 | Or if we install package globally:
-|
 ::
 
  eouser@vm01:~$ sudo pip3 install boto3
@@ -16,7 +14,6 @@ How to download EODATA file using boto3?
 | **Script for downloading one .png file**
 | Remember to generate EC2 credentials for your project, as described here:  `How to generate EC2 credentials <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/s3/generateec2/generateec2.html>`_
 | Remember that you cannot change the output file extension. In the other case the file content would be empty.
-|
 |
 ::
 
@@ -33,15 +30,11 @@ How to download EODATA file using boto3?
   bucket=s3.Bucket('DIAS')
  
   bucket.download_file(key, '/home/eouser/image.png')
-|
 | Save your file with .py extension and run with the 'python3 <filename.py>' command in your terminal. For example:
-|
 ::
 
   (boto3) eouser@vm01:~$ python3 eodownload.py 
-|
 | And here's result:
-|
 ::
 
   (boto3) eouser@vm01:~$ python3 eodownload.py 
