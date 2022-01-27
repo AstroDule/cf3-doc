@@ -14,3 +14,4 @@ DATA / VOLUME
    cannotaccesseodata/cannotaccesseodata
    moveadatavolume/moveadatavolume
    nowy/nowy
+   howmanyobjectsobjectstorage/objectsobjectstorage.rst
