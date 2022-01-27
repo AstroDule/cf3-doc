@@ -11,5 +11,5 @@ To list it's content you can use following command
 .. code-block:: bash
     :lineos:
     
-    eouser@vm01:~$ ls -a /eodata
+eouser@vm01:~$ ls -a /eodata
     
