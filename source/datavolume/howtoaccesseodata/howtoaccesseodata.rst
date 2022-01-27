@@ -8,7 +8,7 @@ To access it you have to make sure that "eodata_*your-projectID*" interface is a
 After that, the whole EODATA folder should be accesible on "/eodata" 
 To list it's content you can use following command
 
-.. code-block:: css
+.. code-block:: bash
     
    eouser@vm01:~$ ls -a /eodata
     
