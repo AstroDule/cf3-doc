@@ -15,3 +15,4 @@ DATA / VOLUME
    moveadatavolume/moveadatavolume
    nowy/nowy
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
+   howtoaccesseodata/howtoaccesseodata.rst  
