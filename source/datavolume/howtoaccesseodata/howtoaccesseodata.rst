@@ -12,3 +12,8 @@ To list it's content you can use following command
     
    eouser@vm01:~$ ls -a /eodata
     
+
+
+#. Step 1.
+#. Step 2.
+#. Step 3.
