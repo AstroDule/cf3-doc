@@ -14,6 +14,3 @@ To list it's content you can use following command
     
 
 
-#. Step 1.
-#. Step 2.
-#. Step 3.
