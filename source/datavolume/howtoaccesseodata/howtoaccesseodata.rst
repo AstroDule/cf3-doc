@@ -9,7 +9,6 @@ After that, the whole EODATA folder should be accesible on "/eodata"
 To list it's content you can use following command
 
 .. code-block:: css
-    :lineos:
     
    eouser@vm01:~$ ls -a /eodata
     
