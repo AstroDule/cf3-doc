@@ -1,4 +1,4 @@
-HOW TO DOWNLOAD EODATA FILE USING BOTO3?
+How to download EODATA file using boto3?
 ====
 | Download particular Landsat-5 image.
 .. warning::
