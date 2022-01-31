@@ -8,3 +8,4 @@ S3
    generateec2/generateec2
    objectstorage/objectstorage
    mountobjectstorage/mountobjectstorage
+   s3fscache/s3fscache
