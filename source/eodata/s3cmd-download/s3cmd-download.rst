@@ -19,7 +19,7 @@ How to download EODATA products using s3cmd?
 | `How to access EODATA and Object storage using s3cmd? <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/datavolume/accessusings3cmd/accessusings3cmd.html>`_
 |
 | **Downloading EOData product**
-| Entire product is being structured in a whole directory, not a single file. Therefore, you have to use –recursive parameter in order to avoid any “skipping” of files.
+| Entire product is being structured in a whole directory, not a single file. Therefore, you have to use **–recursive** parameter in order to avoid any “skipping” of files.
 | Example for downloading a Sentinel-2 product:
 ::
 
