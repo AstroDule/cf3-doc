@@ -45,6 +45,7 @@ eg.
 .. image:: sshfsconnectionfilled.png
 
 Under **KEY FILE** option i choosed path to OpenSSH key file.
+
 Then click save. You'll see that new connection has been made.
 
 .. image:: sshfsconnection.png
