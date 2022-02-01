@@ -20,9 +20,11 @@ Then Please export your Private Key by going to *Conversions* and then *Export O
 .. image:: puttyopenssh.png
 
 **After that you can close PuTTy and open SSHFS-Win-Manager**
+
 .. image:: sshfsmenu.png
 
 To add new connection simply click on *Add Connection*
+
 .. image:: sshfsaddconn.png
 
 Then you'll see window where you can specify all connection details.
