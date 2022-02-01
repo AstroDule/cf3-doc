@@ -1,4 +1,4 @@
-S3FS CACHE
+S3FS Cache
 ==========
 
 By default, S3FS Cache is enabled in CREODIAS preconfigured Linux images. To examine its directory location you might take a look at the configuration in /etc/fstab.
