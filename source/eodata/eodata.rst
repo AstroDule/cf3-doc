@@ -8,3 +8,4 @@ EODATA
    eodataaccess/eodataaccess
    accesslisteousingboto3/accesslisteousingboto3
    downloadeodatausingboto3/downloadeodatausingboto3
+   s3cmd-download/s3cmd-download
