@@ -12,3 +12,5 @@ To do that you have to download and install following programs:
 **Firsly you have to convert your Private Key to OpenSSH format.**
 
 To do that please launch PuTTy KeyGenerator then choose your Private Key by going to *file* - *Load Private Key*
+
+.. image::  puttymenu.png
