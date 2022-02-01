@@ -1,4 +1,4 @@
-How to download EODATA products using s3cmd?
+How to download EODATA files using s3cmd?
 ====
 | **Establishing connection**
 |LIST EODATA USING BOTO3?
