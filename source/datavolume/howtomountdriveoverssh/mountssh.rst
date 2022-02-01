@@ -35,10 +35,10 @@ Here's a short description of the options.
 * **Name** - you can specify connection name
 * **IP/HOST** - that's simply your VM floating IP
 * **PORT** - default it's 22 (SSH port number)
-* **USER** - specify user to authenticate
-* **AUTHENTICATION METHOD** - you can choose two authentication methods (by password or using OpenSSH key)
+* **USER** - specify user name to authenticate with
+* **AUTHENTICATION METHOD** - you can choose two authentication methods, by password or using OpenSSH key
 * **PATH** - set path to Directory that you want to mount
-* **DRIVE LETTER** - you choose on which letter the new drive will be named 
+* **DRIVE LETTER** - you can choose on which letter the new drive will be named 
 
 eg.
 
