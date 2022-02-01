@@ -27,7 +27,7 @@ To add new connection simply click on *Add Connection*
 
 Then you'll see window where you can specify all connection details.
 
-Here's short description of the options.
+Here's a short description of the options.
 
 * **Name** - you can specify connection name
 * **IP/HOST** - that's simply your VM floating IP
@@ -38,6 +38,7 @@ Here's short description of the options.
 * **DRIVE LETTER** - you choose on which letter the new drive will be named 
 
 eg.
+
 .. image:: sshfsconnectionfilled.png
 
 Under **KEY FILE** option i choosed path to OpenSSH key file.
