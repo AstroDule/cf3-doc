@@ -5,7 +5,7 @@ How to mount Network Drive over SSH in Windows?
 
 To do that you have to download and install following programs:
 
-* Putty `download <https://www.putty.org/>`_
+* `PuTTy <https://www.putty.org/>`_
 * Dokan
 * WinFsp
 * SSHFS-Win-Manager (to Authenticate using OpenSSH Key)
