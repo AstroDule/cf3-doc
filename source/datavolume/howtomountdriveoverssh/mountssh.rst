@@ -28,6 +28,7 @@ To add new connection simply click on *Add Connection*
 Then you'll see window where you can specify all connection details.
 
 Here's short description of the options.
+
 * **Name** - you can specify connection name
 * **IP/HOST** - that's simply your VM floating IP
 * **PORT** - default it's 22 (SSH port number)
@@ -35,6 +36,7 @@ Here's short description of the options.
 * **AUTHENTICATION METHOD** - you can choose two authentication methods (by password or using OpenSSH key)
 * **PATH** - set path to Directory that you want to mount
 * **DRIVE LETTER** - you choose on which letter the new drive will be named 
+
 eg.
 .. image:: sshfsconnectionfilled.png
 
