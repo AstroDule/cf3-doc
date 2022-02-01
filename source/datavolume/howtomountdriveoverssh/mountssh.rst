@@ -8,7 +8,7 @@ To do that you have to download and install following programs:
 * `PuTTy <https://www.putty.org/>`_
 * `Dokan <https://github.com/dokan-dev/dokany/releases>`_
 * `WinFsp <https://github.com/billziss-gh/winfsp/releases/tag/v1.10>`_
-* `SSHFS-Win and SSHFS-Win-Manager (to Authenticate using OpenSSH Key) <https://github.com/billziss-gh/sshfs-win>`_
+* `SSHFS-Win and SSHFS-Win-Manager <https://github.com/billziss-gh/sshfs-win>`_ (to Authenticate using OpenSSH Key)
 
 **Firsly you have to convert your Private Key to OpenSSH format.**
 
