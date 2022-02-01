@@ -44,12 +44,14 @@ eg.
 
 .. image:: sshfsconnectionfilled.png
 
-Under **KEY FILE** option i choosed path to OpenSSH key file.
+Under **KEY FILE** option I choosed path to OpenSSH key file that has been exported before.
 
 Then click save. You'll see that new connection has been made.
 
 .. image:: sshfsconnection.png
 
-Then just click link button. And your drive sholud be mounted.
+Then just click link button. 
+
+And your drive shoul be mounted.
 
 .. image:: thispc.png
