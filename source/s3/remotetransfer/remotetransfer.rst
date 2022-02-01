@@ -32,7 +32,7 @@ In the solution we will use the following terms to describe:
   Default Region [US]:
 
   Use "s3.amazonaws.com" for S3 Endpoint and not modify it to the target Amazon S3.
-  S3 Endpoint [s3.amazonaws.com]: s3.cloudferro.com
+  S3 Endpoint: s3.waw3-1.cloudferro.com
 
   Use "%(bucket)s.s3.amazonaws.com" to the target Amazon S3. "%(bucket)s" and "%(location)s" vars can be used
   if the target S3 system supports dns based buckets.
@@ -56,7 +56,7 @@ In the solution we will use the following terms to describe:
      Access Key: <ACCESS_KEY>
      Secret Key: <SECRET_KEY>
      Default Region: US
-     S3 Endpoint: s3.cloudferro.com
+     S3 Endpoint: s3.waw3-1.cloudferro.com
      DNS-style bucket+hostname:port template for accessing a bucket: s3.cloudferro.com
      Encryption password:
      Path to GPG program: /usr/bin/gpg
