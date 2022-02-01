@@ -7,11 +7,11 @@ HOW TO CONFIGURE "CLOUDFERRO REMOTE TRANSFER FOR EODATA" USING S3CMD (LINUX)?
 * "CloudFerro Remote Transfer for EODATA" credentials must be created in advance.
 * s3cmd must be installed. If you don't have installed, read the article „`How to access EO DATA and Object Storage using s3cmd (Linux)?” <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/datavolume/accessusings3cmd/accessusings3cmd.html>`_,
 
-In the solution we will use the following terms to describe:
+In the solution we will use the following terms to describe: „`How to generate Ec2 credentials” <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/s3/generateec2/generateec2.html>`_,
 
-**<ACCESS_KEY>** - your access key created on "https://clients.creodias.eu" website.
+**<ACCESS_KEY>** - your access key
 
-**<SECRET_KEY>** - your secret key created on "https://clients.creodias.eu" website.
+**<SECRET_KEY>** - your secret key
 
 **Configure s3cmd to use "CloudFerro Remote Transfer for EODATA"**
 
