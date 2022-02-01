@@ -9,4 +9,3 @@ S3
    objectstorage/objectstorage
    mountobjectstorage/mountobjectstorage
    s3fscache/s3fscache
-   remotetransfer/remotetransfer
