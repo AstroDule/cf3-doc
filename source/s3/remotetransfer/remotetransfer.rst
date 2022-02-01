@@ -1,4 +1,4 @@
-HOW TO CONFIGURE "CLOUDFERRO REMOTE TRANSFER FOR EODATA" USING S3CMD (LINUX)?
+How to configure "Cloudferro remote transfer for eodata" using S3CMD (Linux)?
 =============================================================================
 
 **Prerequirements**
