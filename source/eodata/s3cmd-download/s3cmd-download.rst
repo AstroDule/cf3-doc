@@ -1,7 +1,6 @@
 How to download EODATA files using s3cmd?
 ====
 | **Establishing connection**
-|LIST EODATA USING BOTO3?
 | At first, please verify your connection with EODATA bucket by using list command.
 ::
 
