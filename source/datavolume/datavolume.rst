@@ -17,5 +17,4 @@ DATA / VOLUME
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
    howtoaccesseodata/howtoaccesseodata.rst  
    howtomountdriveoverssh/mountssh.rst
-   CloudFerro/doc/blob/master/source/Gstarted/services.rst
   
