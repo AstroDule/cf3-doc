@@ -17,5 +17,5 @@ DATA / VOLUME
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
    howtoaccesseodata/howtoaccesseodata.rst  
    howtomountdriveoverssh/mountssh.rst
-   external doc/blob/master/source/Gstarted/accounts_projects.rst
+   :doc:`my document <..CloudFerro/doc/blob/master/source/Gstarted/inviting_new_user.rst>` 
   
