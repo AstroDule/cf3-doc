@@ -17,4 +17,3 @@ DATA / VOLUME
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
    howtoaccesseodata/howtoaccesseodata.rst  
    howtomountdriveoverssh/mountssh.rst
-   /doc/source/Gstarted/accounts_projects.rst 
