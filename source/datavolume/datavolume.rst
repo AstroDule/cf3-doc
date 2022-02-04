@@ -17,5 +17,5 @@ DATA / VOLUME
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
    howtoaccesseodata/howtoaccesseodata.rst  
    howtomountdriveoverssh/mountssh.rst
-   :ref:`Optional Link text <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/datavolume/datavolume.html>`_
+   :ref: `Optional Link text <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/datavolume/datavolume.html>`
   
