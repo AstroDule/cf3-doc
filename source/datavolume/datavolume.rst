@@ -17,5 +17,5 @@ DATA / VOLUME
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
    howtoaccesseodata/howtoaccesseodata.rst  
    howtomountdriveoverssh/mountssh.rst
-   :ref: Optional Link text <https://www.cf-docs.cf/en/latest/Gstarted/contracts_wallets.html>
+   `Optional Link text <https://www.cf-docs.cf/en/latest/Gstarted/contracts_wallets.html>`_
   
