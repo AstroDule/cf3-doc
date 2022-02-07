@@ -10,3 +10,4 @@ S3
    mountobjectstorage/mountobjectstorage
    s3fscache/s3fscache
    remotetransfer/remotetransfer
+   deletelargebucket/deletelargebucket
