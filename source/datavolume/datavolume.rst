@@ -13,7 +13,6 @@ DATA / VOLUME
    volumesnapshot/volumesnapshot
    cannotaccesseodata/cannotaccesseodata
    moveadatavolume/moveadatavolume
-   nowy/nowy
    howmanyobjectsobjectstorage/objectsobjectstorage.rst
    howtoaccesseodata/howtoaccesseodata.rst  
    howtomountdriveoverssh/mountssh.rst
