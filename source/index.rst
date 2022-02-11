@@ -8,12 +8,17 @@ CF3 DOCUMENTATION!
    :maxdepth: 2
    :caption: Contents:
    
-   s3/s3
-   openstackcli/openstackcli
-   networking/networking
-   datavolume/datavolume
-   eodata/eodata
    general/general
+   datavolume/datavolume
+   networking/networking
+   openstackcli/openstackcli
+   eodata/eodata
+   s3/s3
+   
+   
+
+   
+
 
 
 
