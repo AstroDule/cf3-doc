@@ -1,20 +1,11 @@
-CF3 DOCUMENTATION!
-==================================
+Welcome to CloudFerro Knowledgebase!
+=====================================
 
-Header:
-^^^^^^^^
+Navigate through the sections below and discover helpful resources.
 
-CloudFerro documentation.
 
-Tekst 1234
-
-TEST !@$%^&(((!@(#($!@)%)%!@_)))::
-
-   fmt.Prinln("Hello, world!")
-   >> Hello, world
-
-Guide:
-^^^^^^
+Sections:
+^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
