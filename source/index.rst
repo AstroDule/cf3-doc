@@ -1,14 +1,12 @@
-Welcome to CloudFerro Knowledgebase!
-=====================================
-
-Navigate through the sections below and discover helpful resources.
+CF3 DOCUMENTATION!
+==================
 
 
-Sections:
-^^^^^^^^^
+
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
    
    s3/s3
    openstackcli/openstackcli
