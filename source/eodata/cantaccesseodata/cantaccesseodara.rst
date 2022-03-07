@@ -63,8 +63,9 @@ In the instances created **before March 14, 2020,** /eodata is mounted using the
   sudo umount -lf /eodata
  
   sudo mount /eodata
+  
 
- In Windows:
+In Windows:
 
 Run CMD (Command Prompt) with administrator privileges.
 
@@ -77,4 +78,8 @@ Type:
 
 and confirm by pressing Enter.
 
+.. figure:: cantaccess1.png
 
+The run script "mount_eodata" from desktop.
+
+.. figure:: cantaccess2.png
