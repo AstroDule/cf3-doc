@@ -5,8 +5,9 @@ EODATA
 .. toctree::
    :maxdepth: 3
    
-   eodataaccess/eodataaccess
    accesslisteousingboto3/accesslisteousingboto3
+   cantaccesseodata/cantaccesseodata   
    downloadeodatausingboto3/downloadeodatausingboto3
-   cantaccesseodata/cantaccesseodata
+   eodataaccess/eodataaccess
+   eodatagoofys/eodatagoofys
    s3cmd-download/s3cmd-download
