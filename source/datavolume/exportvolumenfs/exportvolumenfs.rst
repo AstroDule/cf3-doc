@@ -1,4 +1,4 @@
-HOW TO EXPORT A VOLUME OVER NFS?
+How to export a volume over NFS?
 ================================
 
 **Server configuration**
