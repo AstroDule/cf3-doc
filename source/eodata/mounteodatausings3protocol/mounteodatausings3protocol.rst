@@ -7,7 +7,7 @@ Therefore for users who need filesystem access with higher throughput we prepare
 
 It is designed to be very fast, however it does not provide full s3 compatibility and is less stable than s3fs. We have thoroughly tested all recommended tools and applications, and discovered that in some rare situations under heavy load goofys can hang and remounting of the repository might be required.
 
-..attention::
+.. attention::
   Your virtual machine has to be launched in project with EO DATA!
 
 To mount EO DATA using goofys filesystem emulation do following steps (this configuration was tested on Ubuntu 16 LTS):
