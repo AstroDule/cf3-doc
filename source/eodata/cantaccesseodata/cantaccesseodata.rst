@@ -1,4 +1,4 @@
-CAN'T ACCESS EODATA
+Can't access eodata
 ===================
 
 If you have problems with access to eodata try the following:
