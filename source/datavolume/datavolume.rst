@@ -7,6 +7,7 @@ DATA / VOLUME
    
    ephemeralvspersistentstorage/ephemeralvspersistentstorage
    accessusings3cmd/accessusings3cmd
+   exportvolumenfs/exportvolumenfs
    exportvolumeovernfs/exportvolumeovernfs
    attachvolumetovm<2tb/attachvolumetovm<2tb
    extendvolumelinux/extendvolumelinux
