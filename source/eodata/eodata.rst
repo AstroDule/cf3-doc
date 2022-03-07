@@ -11,3 +11,4 @@ EODATA
    eodataaccess/eodataaccess
    eodatagoofys/eodatagoofys
    s3cmd-download/s3cmd-download
+   eodatas3fs/eodatas3fs
