@@ -22,6 +22,7 @@ Installation under other distributions may be simillar.
 Let's start with the apt update && apt upgrade commands. This will update our system packages to the latest version
  
 ::
+
    sudo apt update && sudo apt upgrade
 
 
