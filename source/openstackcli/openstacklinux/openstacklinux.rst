@@ -27,7 +27,7 @@ Let's start with the apt update && apt upgrade commands. This will update our sy
 
 
 
-Now let's install python3 and create a new python enviroment called simply "openstack_cki":
+Now let's install python3 and create a new python enviroment called simply "openstack_cli":
 
 ::
 
