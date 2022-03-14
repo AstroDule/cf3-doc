@@ -13,8 +13,8 @@ It is strongly recommended to use virtual environments which do not affect syste
 
  
 
-FAQ covers installation of OpenStackClient under Ubuntu 20.04 LTS and Python 3.
-Installation under other distros may be simillar.
+FAQ covers installation of Openstack Client under Ubuntu 18.04 LTS and Python 3. This method works on Ubuntu 20.04 as well.
+Installation under other distributions may be simillar.
 
  
 
@@ -26,12 +26,11 @@ Before we start, you might consider running below code in a virtual environment:
    python3 -m venv openstack_cli
    source openstack_cli/bin/activate
    
+ Let's start with the apt update && apt upgrade commands. This will update our system packages to the latest version
  
-Firstly, run apt-get update:
+ ::
+   sudo apt update && sudo apt upgrade
 
-::
-
-   sudo apt update
 
  
 Install python3-pip:
