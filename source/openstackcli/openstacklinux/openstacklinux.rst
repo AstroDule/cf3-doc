@@ -17,49 +17,38 @@ FAQ covers installation of Openstack Client under Ubuntu 18.04 LTS and Python 3.
 Installation under other distributions may be simillar.
 
  
+   
+   
+Let's start with the apt update && apt upgrade commands. This will update our system packages to the latest version
+ 
+::
+   sudo apt update && sudo apt upgrade
 
-Before we start, you might consider running below code in a virtual environment:
+
+
+Now let's install python3 and create a new python enviroment called simply "openstack_cki":
 
 ::
 
    sudo apt install python3-venv
    python3 -m venv openstack_cli
    source openstack_cli/bin/activate
-   
- Let's start with the apt update && apt upgrade commands. This will update our system packages to the latest version
- 
- ::
-   sudo apt update && sudo apt upgrade
-
 
  
-Install python3-pip:
+ 
+Now upgrade Python Package Installer (pip) to the latest version using command below:
 
 ::
 
-   sudo apt install python3-pip
+   pip install --upgrade pip
 
  
-Install setuptools:
-
-::
-
-   sudo python3 -m pip install setuptools
-
- 
-If you intend to use newer version of python, eg. 3.8.2 - you have to install python3.8-dev and reinstall netifaces python module which may cause problems. Remember to run pip commands with appropiate python version (eg. change python3 -m pip to python3.8 -m pip)
-
-::
-
-  sudo apt install python3.8-dev
-  sudo python3.8 -m pip install --upgrade netifaces
-
  
 Finally install python-openstackclient:
 
 ::
 
-   sudo python3 -m pip install python-openstackclient
+   pip install python-openstackclient
 
  
 
