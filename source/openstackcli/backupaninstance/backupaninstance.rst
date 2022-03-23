@@ -1,3 +1,5 @@
+.. _my-reference-label:
+
 How to backup an instance and download it to the desktop?
 =========================================================
 
