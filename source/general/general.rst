@@ -20,4 +20,4 @@ GENERAL
    keypairopenstack/keypairopenstack
    pythonvirtualenv/pythonvirtualenv
    howtousedocker/howtousedocker
-  
+   howtocreatenewlinuxgpu/howtocreatenewlinuxgpu
