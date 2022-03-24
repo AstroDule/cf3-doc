@@ -15,7 +15,7 @@ Insert the name of the Instance (eg. "vm_with_vgpu") and click Next button.
 Select Instance Boot Source (eg. "Image"), and choose desired image (eg. "Ubuntu 20.04 NVIDIA") by clicking on arrow.
 If you do not need to have the system disk bigger than the size defined in a chosen flavor, we recommend setting "Create New Volume" feature to "No" state.
 
-Images marked with "NVIDIA" have the special NVIDIA Grid drivers implemented and a licence token installed.
+Images marked with "NVIDIA" have the special NVIDIA Grid drivers and a licence token installed, the CUDA library is also installed in these images
 
 .. figure:: 3.png
 
