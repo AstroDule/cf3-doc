@@ -31,7 +31,7 @@ Click "Networks" and then choose desired networks.
 
 .. figure:: 5.png
 
-Open "Security Groups" After that, choose "allow_ping_ssh_rdp" and "default".
+Open "Security Groups" After that, choose "allow_ping_ssh_icmp_rdp" and "default".
 
 .. figure:: 6.png
 
