@@ -3,8 +3,9 @@ How to create new linux vm with vGpu in Openstack Dashboard (Horizon)?
 
 A virtual machine with vgpu differs from normal virtual machines in that it has a graphics card. In order to use this functionality, you will need to select a flavour that has this card. The flavor names are: vm.a6000.1, vm.a6000.2, vm.a6000.4, vm.a6000.8. a6000 means the presence of NVIDIA RTX A6000 and 1, 2, 4, 8 are the flavor capacities.
 
-.. figure:: 15.png
+Virtual - this is the NVIDIA VGPU type
 
+.. figure:: 15.png
 
 Go to Project → Compute → Instances.
 
@@ -52,7 +53,10 @@ Open the drop-down menu and choose "Console".
 
 .. figure:: 9.png
 
- Click on the black terminal area (to activate access to the console). Type: eoconsole and hit Enter.
+You can connect to your virtual machine using SSH. `How to connect to your virtual machine via SSH in Linux? <https://cloudferro-cf3.readthedocs-hosted.com/en/latest/networking/connectviasshlinux/connectviasshlinux.html?highlight=ssh>`_
+
+You can also use the SPICE console using the Openstack Dashboard.
+Click on the black terminal area (to activate access to the console). Type: eoconsole and hit Enter.
 
 .. figure:: 10.png
 
