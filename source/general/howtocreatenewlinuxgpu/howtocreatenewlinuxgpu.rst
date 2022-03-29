@@ -3,7 +3,7 @@ How to create new linux vm with vGpu in Openstack Dashboard (Horizon)?
 
 A virtual machine with vgpu differs from normal virtual machines in that it has a graphics card. In order to use this functionality, you will need to select a flavour that has this card. The flavor names are: vm.a6000.1, vm.a6000.2, vm.a6000.4, vm.a6000.8. a6000 means the presence of NVIDIA RTX A6000 and 1, 2, 4, 8 are the flavor capacities.
 
-Virtual - this is the NVIDIA VGPU type
+Virtual - this is the NVIDIA VGPU type, the number before C indicates the number of gb of video ram allocated to the vgpu.
 
 .. figure:: 15.png
 
